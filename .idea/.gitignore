@@ -1,0 +1,8 @@
+# Default ignored files
+/workspace.xml
+/target/
+/.classpath
+/.project
+/test-output/
+/logs/
+/*.html
