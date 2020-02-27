@@ -1,1 +1,7 @@
 /bin/
+/target/
+/.classpath
+/.project
+/test-output/
+/logs/
+/*.html
